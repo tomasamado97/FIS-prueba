@@ -1,10 +1,10 @@
 # FIS-prueba
 
 
------------- ****** Miembros del Grupo ****** ------------
+* Miembros del Grupo
 
-    *Tomás Amado
-    *Romina Giacco
-    *Germán Cotelo
-    *Matias Farolini
-    *Romina Susperreguy
+    * Tomás Amado
+    * Romina Giacco
+    * Germán Cotelo
+    * Matias Farolini
+    * Romina Susperreguy
